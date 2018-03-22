@@ -1,0 +1,22 @@
+.p-count{
+    width: 23px; 
+    height: 23px; 
+    line-height: 23px;
+    position: absolute;
+}
+
+/* hide mobile version by default */
+  
+.svg-logo-wrapper .mobile-logo {
+    display: none;
+}
+/* when screen is less than 600px wide
+show mobile version and hide desktop */
+@media (max-width: 768px) {
+   .svg-logo-wrapper .mobile-logo {
+   display: block;
+   }
+   .svg-logo-wrapper .logo-icon {
+     display: none;
+   }
+}
