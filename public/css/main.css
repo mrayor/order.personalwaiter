@@ -255,7 +255,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #23527c;
+    color: #cc3535;
     text-decoration: underline
 }
 
@@ -4259,7 +4259,7 @@ select.selectpicker {
 
 .button {
     color: #fff;
-    background-color: #cc3535;
+    background-color: rgba(236, 28, 36, 0.89);
     border-color: #cc3535;
 }
 
@@ -5812,7 +5812,7 @@ select {
     width: 12px;
     height: 6px;
     margin-top: -3px;
-    background-image: url("../../img/ic-arrow-down-pink.svg");
+    background-image: url("../img/ic-arrow-down-pink.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -5987,7 +5987,7 @@ a:hover,
 a:focus,
 .link:hover,
 .link:focus {
-    color: white; 
+    color:white; 
     text-decoration: none;
 }
 
@@ -19122,7 +19122,7 @@ body:not(.home).show-banner .page-wrapper.order-component {
 }
 
 .footer__social {
-    text-align: right;
+    text-align: center;
     height: 42px;
     -ms-flex: 1 1 auto;
     -webkit-box-flex: 1;
@@ -19159,7 +19159,7 @@ body:not(.home).show-banner .page-wrapper.order-component {
 }
 
 .footer__social a i:hover {
-    color: #d70f64
+    color: rgba(236, 28, 36, 0.89);
 }
 
 @media (min-width: 768px) {
@@ -19219,7 +19219,7 @@ body:not(.home).show-banner .page-wrapper.order-component {
 
 .footer__nav li a:hover,
 .footer__nav li a:focus {
-    color: #d70f64;
+    color: #cc3535;
     text-decoration: none
 }
 
@@ -19296,7 +19296,7 @@ body:not(.home).show-banner .page-wrapper.order-component {
 
 .footer__popular a:hover,
 .footer__popular a:focus {
-    color: #d70f64;
+    color: #cc3535;
     text-decoration: none
 }
 

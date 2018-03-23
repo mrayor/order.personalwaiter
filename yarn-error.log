@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js run watch
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js run dev
 
 PATH: 
   C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\ADESANYA AYOKUNLE\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\xampp\php;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files (x86)\QuickTime\QTSystem;C:\Program Files\AMI\DuOS;C:\Program Files (x86)\Brackets\command;C:\Program Files\nodejs;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Yarn\bin;C:\Users\ADESANYA AYOKUNLE\AppData\Local\atom\bin;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\AMI\DuOS;C:\Users\ADESANYA AYOKUNLE\AppData\Roaming\npm;C:\Users\ADESANYA AYOKUNLE\AppData\Roaming\Composer\vendor\bin;C:\Users\ADESANYA AYOKUNLE\AppData\Local\Yarn\bin
@@ -37,7 +37,8 @@ npm manifest:
       "dependencies": {
           "buefy": "^0.6.3",
           "bulma": "^0.6.2",
-          "font-awesome": "^4.7.0"
+          "font-awesome": "^4.7.0",
+          "nanobar": "^0.4.2"
       }
   }
 
@@ -4644,6 +4645,10 @@ Lockfile:
     version "2.10.0"
     resolved "https://registry.yarnpkg.com/nan/-/nan-2.10.0.tgz#96d0cd610ebd58d4b4de9cc0c6828cda99c7548f"
   
+  nanobar@^0.4.2:
+    version "0.4.2"
+    resolved "https://registry.yarnpkg.com/nanobar/-/nanobar-0.4.2.tgz#01c512e6c662e38562694f64e4a88a253732f48f"
+  
   nanomatch@^1.2.9:
     version "1.2.9"
     resolved "https://registry.yarnpkg.com/nanomatch/-/nanomatch-1.2.9.tgz#879f7150cb2dab7a471259066c104eee6e0fa7c2"
@@ -7496,9 +7501,9 @@ Lockfile:
 
 Trace: 
   Error: Command failed.
-  Exit code: 3221225786
+  Exit code: 2
   Command: C:\WINDOWS\system32\cmd.exe
-  Arguments: /d /s /c cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js
+  Arguments: /d /s /c npm run development
   Directory: C:\xampp\htdocs\order.personalwaiter
   Output:
   

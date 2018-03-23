@@ -17266,6 +17266,25 @@ label.panel-block:hover {
   position: absolute;
 }
 
+.othercountries a:hover {
+  color: #ec1c24;
+}
+
+.othercountries {
+  float: left;
+  width: 100%;
+  height: auto;
+}
+
+.othercountries p {
+  text-align: center;
+}
+
+.othercountries a {
+  color: #666;
+  cursor: pointer;
+}
+
 /* hide mobile version by default */
 
 .svg-logo-wrapper .mobile-logo {
@@ -17283,6 +17302,21 @@ show mobile version and hide desktop */
   .svg-logo-wrapper .logo-icon {
     display: none;
   }
+}
+
+.nanobar {
+  width: 100%;
+  height: 4px;
+  z-index: 9999;
+  top: 0;
+}
+
+.bar {
+  width: 0;
+  height: 100%;
+  -webkit-transition: height .3s;
+  transition: height .3s;
+  background: #ec1c24 !important;
 }
 
 /*
