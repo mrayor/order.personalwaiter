@@ -55,7 +55,7 @@
                                             </picture>
                                             <figcaption class="vendor-info">
                                                 <span class="headline">
-                                                    <span class="name fn">Restaurant - Nam</span>
+                                                    <span class="name fn">Restaurant - Name</span>
                                                 </span>
                                                 <ul class="categories summary">
                                                     <li>
@@ -79,7 +79,7 @@
                                             </picture>
                                             <figcaption class="vendor-info">
                                                 <span class="headline">
-                                                    <span class="name fn">Restaurant - Nam</span>
+                                                    <span class="name fn">Restaurant - Name</span>
                                                 </span>
                                                 <ul class="categories summary">
                                                     <li>
@@ -104,7 +104,7 @@
                                             </picture>
                                             <figcaption class="vendor-info">
                                                 <span class="headline">
-                                                    <span class="name fn">Restaurant - Nam</span>
+                                                    <span class="name fn">Restaurant - Name</span>
                                                 </span>
                                                 <ul class="categories summary">
                                                     <li>
@@ -129,7 +129,7 @@
                                             </picture>
                                             <figcaption class="vendor-info">
                                                 <span class="headline">
-                                                    <span class="name fn">Restaurant - Nam</span>
+                                                    <span class="name fn">Restaurant - Name</span>
                                                 </span>
                                                 <ul class="categories summary">
                                                     <li>
@@ -153,7 +153,7 @@
                                             </picture>
                                             <figcaption class="vendor-info">
                                                 <span class="headline">
-                                                    <span class="name fn">Restaurant - Nam</span>
+                                                    <span class="name fn">Restaurant - Name</span>
                                                 </span>
                                                 <ul class="categories summary">
                                                     <li>
@@ -178,7 +178,7 @@
                                             </picture>
                                             <figcaption class="vendor-info">
                                                 <span class="headline">
-                                                    <span class="name fn">Restaurant - Nam</span>
+                                                    <span class="name fn">Restaurant - Name</span>
                                                 </span>
                                                 <ul class="categories summary">
                                                     <li>
@@ -202,7 +202,7 @@
                                             </picture>
                                             <figcaption class="vendor-info">
                                                 <span class="headline">
-                                                    <span class="name fn">Restaurant - Nam</span>
+                                                    <span class="name fn">Restaurant - Name</span>
                                                 </span>
                                                 <ul class="categories summary">
                                                     <li>

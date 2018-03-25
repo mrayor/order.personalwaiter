@@ -13943,7 +13943,7 @@ ul.dotted li:before {
 
 .restaurants__city-bottom-info {
     font-size: 1.4rem;
-    padding-top: 24px
+    padding-top: 50px;
 }
 
 @media (min-width: 768px) {
