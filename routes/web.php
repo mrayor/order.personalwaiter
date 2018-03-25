@@ -22,6 +22,9 @@
 
 //Pages Route
 Route::get('/', 'PagesController@index')->name('home');
+//temporary route, slugs to be added for each individual city
+Route::get('/individualCity', 'PagesController@individualCity')->name('city');
+
 
 Auth::routes();
 

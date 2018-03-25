@@ -6578,7 +6578,7 @@ ul.dotted li:before {
     display: block;
     height: 200px;
     overflow: hidden;
-    background: rgba(0, 0, 0, 0.04) url(../../img/logo/logo-simple.svg) center no-repeat
+    background: rgba(0, 0, 0, 0.04) url(../img/logo-simple.svg) center no-repeat
 }
 
 .vendor-tile .vendor-picture {
@@ -6638,7 +6638,7 @@ ul.dotted li:before {
 
 .vendor-tile .tag {
     color: #fff;
-    background-color: #d70f64;
+    background-color: #cc3535;
     height: 24px;
     padding: 0 16px;
     position: absolute;
@@ -6668,7 +6668,7 @@ ul.dotted li:before {
 
 .vendor-tile.temp-closed picture {
     background-color: #ebebeb;
-    background-image: url(../../img/logo/logo-simple-darker.svg)
+    background-image: url(../img/logo-simple-darker.svg)
 }
 
 .vendor-tile.temp-closed picture::before {

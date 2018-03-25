@@ -42,7 +42,7 @@
                 <div class="city-list-wrapper">
                     <ul class="city-list" ontouchstart="">
                         <li>
-                            <a class="city-tile" href="#">
+                            <a class="city-tile" href="/individualCity">
                                 <figure>
                                     <picture>
                                         <div class="city-picture b-lazy b-loaded" style="background-image:url(../img/city-placeholder.jpg)"></div>
