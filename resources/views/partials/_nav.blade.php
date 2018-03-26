@@ -133,7 +133,8 @@
                             </g>
                         </svg>
                         <?xml version="1.0" encoding="utf-8"?>
-                        <svg width="190px" height="37px" class="mobile-logo" viewBox="0 0 300 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <svg width="190px" height="37px" class="mobile-logo" viewBox="0 0 300 37" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                            xmlns:xlink="http://www.w3.org/1999/xlink">
                             <rect x="69.329" y="-0.113" display="none" fill="#EC1C24" width="1.071" height="37.225" />
                             <g display="none">
                                 <rect x="52.567" y="3.54" transform="matrix(0.9136 0.4066 -0.4066 0.9136 7.1235 -21.0134)" display="inline" fill="#F16522"

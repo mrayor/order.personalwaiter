@@ -17309,6 +17309,9 @@ show mobile version and hide desktop */
   }
 }
 
+/* when screen is less than 600px wide
+show mobile version and hide desktop */
+
 .nanobar {
   width: 100%;
   height: 4px;

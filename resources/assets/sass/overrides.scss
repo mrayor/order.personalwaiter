@@ -38,11 +38,11 @@
 /* when screen is less than 600px wide
 show mobile version and hide desktop */
 @media (max-width: 768px) {
-   .svg-logo-wrapper .mobile-logo {
-   display: block;
+    .svg-logo-wrapper .mobile-logo {
+        display: block;
    }
-   .svg-logo-wrapper .logo-icon {
-     display: none;
+    .svg-logo-wrapper .logo-icon {
+        display: none;
    }
 }
 
