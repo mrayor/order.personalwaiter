@@ -48,7 +48,7 @@
                             <span class="title-flat">Popular restaurants</span>
                             <ul class="vendor-list ">
                                 <li>
-                                    <a href="#" class="hreview-aggregate url">
+                                    <a href="/individualRestaurant" class="hreview-aggregate url">
                                         <figure class="vendor-tile  item">
                                             <picture>
                                                 <div class="vendor-picture b-lazy b-loaded" style="background-image:url(../img/listings.jpg)"></div>

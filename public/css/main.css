@@ -18203,7 +18203,7 @@ textarea.checkout__step__item-textarea {
     position: absolute;
     bottom: 0;
     width: 100%;
-    background-color: #292929;
+    background-color: rgba(41, 41, 41, 0.8);
     padding: 8px;
     z-index: 1295;
     display: -webkit-box;

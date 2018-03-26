@@ -14,4 +14,7 @@ class PagesController extends Controller
     public function individualCity(){
         return view('pages.individualCity');
     }
+    public function individualRestaurant(){
+        return view('pages.individualRestaurant');
+    }
 }

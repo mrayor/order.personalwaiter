@@ -6,7 +6,7 @@
     @include('partials._head')
 </head>
 
-<body class="country-ca home">
+<body class="country-ca home menu">
     @include('partials._nav') 
     @yield('content') 
     @include('partials._footer')
