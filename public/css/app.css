@@ -17271,6 +17271,10 @@ label.panel-block:hover {
   position: absolute;
 }
 
+a.menu__icon-legend__link:hover {
+  color: #A70303;
+}
+
 .othercountries a:hover {
   color: #ec1c24;
 }
@@ -17308,9 +17312,6 @@ show mobile version and hide desktop */
     display: none;
   }
 }
-
-/* when screen is less than 600px wide
-show mobile version and hide desktop */
 
 .nanobar {
   width: 100%;
